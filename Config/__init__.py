@@ -1,11 +1,11 @@
-﻿#--------------------------------------------------------------------------|Variebels For Api
-API_ID =5015063                                                          #-|
-API_HASH = 'XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX'                           #-|
-BOT_TOKEN= '1234567899:XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX'              #-| 
-OWNER= 2133923261                                                        #-|
-OWNER_USERNAME='YOUR_TELEGRAM_USERNAME'                                  #-|
-#--------------------------------------------------------------------------| Robot Variebels
-Banners_Channel='@CHANNEL WICH YOUR BANNERS SENDED'
+#######
+API_ID =16173725                                                          #-|
+API_HASH = 'eb5276af00094ecb815e25aaf2901fcf'                           #-|
+BOT_TOKEN= '6639459355:AAGGpRhl6NEWpsxoyJ_0mNpB6P_6qGa2qts'              #-| 
+OWNER= 5675469677                                                        #-|
+OWNER_USERNAME='coalw'                                  #-|
+#--------------------------------------------------------------------------
+Banners_Channel='@iminfo'
 #-----------------------------------------------------------------------------------------------------
 #-----------------------------------------------------------------------------------------------------
 AndroidPhone = ['Samsung Galaxy A20s', 'Samsung Galaxy A70', 'Samsung Galaxy A01', 'Samsung Galaxy A20','Samsung Galaxy A30s', 'Samsung Galaxy A51', 'Samsung Galaxy A21s', 'Samsung Galaxy A32','Samsung Galaxy A12', 'Xiaomi Poco X3 Pro ', 'Xiaomi Redmi Note 8 pro', 'Xiaomi Poco X3 Pro ','Xiaomi Redmi Note 8', 'Xiaomi Redmi Note 9 Pro', 'Xiaomi Redmi Note 9', 'Xiaomi Poco F3','Huawei Y7 Prime 2019', 'Huawei Y9 Prime 2019', 'Huawei Y6 Prime 2019 ', 'Huawei Honor 10','Asus ROG Phone 5s', 'Asus Zenfone 3 Deluxe']
@@ -19,13 +19,13 @@ PcVersion = ['Windows 7', 'Windows 8', 'Windows 8.1', 'Windows 8.2', 'Windows 10
 
 #-----------------------------------------------------------------------------------------------------
 #-----------------------------------------------------------------------------------------------------
-API=[['XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX',1111111111],['XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX',11111111111],['XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX',1111111111]]
-BOT_USERNAME='YOUR BOT USERNAME'
+API=[['eb5276af00094ecb815e25aaf2901fcf',16173725],['eb5276af00094ecb815e25aaf2901fcf',16173725],['eb5276af00094ecb815e25aaf2901fcf',16173725]]
+BOT_USERNAME='Okdadubot'
 Photos_Path=r'/root/Advertiser/Data/Fake_Details/Photos'
 Fake_Details_Path=r'/root/Advertiser/Data/Fake_Details'
 Sessions=r'/root/Advertiser/Sessions'
-Dark_Channel='DarkBotsChannel'
-Natural_Channels=[ '@Amiralirj_Official'] #,'@DarkBotsChannel' , '@gizmiztel' , '@ahangrj'] you can add any channels
+Dark_Channel='iminfo'
+Natural_Channels=[ '@iminfo'] #,'@DarkBotsChannel' , '@gizmiztel' , '@ahangrj'] you can add any channels
 #--------------------------------------------------------------------------| Prices
 Adding_Account=-30
 Delete_Account=-4

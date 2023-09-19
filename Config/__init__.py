@@ -21,9 +21,9 @@ PcVersion = ['Windows 7', 'Windows 8', 'Windows 8.1', 'Windows 8.2', 'Windows 10
 #-----------------------------------------------------------------------------------------------------
 API=[['eb5276af00094ecb815e25aaf2901fcf',16173725],['eb5276af00094ecb815e25aaf2901fcf',16173725],['eb5276af00094ecb815e25aaf2901fcf',16173725]]
 BOT_USERNAME='Okdadubot'
-Photos_Path=r'/root/Advertiser/Data/Fake_Details/Photos'
-Fake_Details_Path=r'/root/Advertiser/Data/Fake_Details'
-Sessions=r'/root/Advertiser/Sessions'
+Photos_Path=r'root/Advertiser/Data/Fake_Details/Photos'
+Fake_Details_Path=r'root/Advertiser/Data/Fake_Details'
+Sessions=r'root/Advertiser/Sessions'
 Dark_Channel='iminfo'
 Natural_Channels=[ '@iminfo'] #,'@DarkBotsChannel' , '@gizmiztel' , '@ahangrj'] you can add any channels
 #--------------------------------------------------------------------------| Prices
